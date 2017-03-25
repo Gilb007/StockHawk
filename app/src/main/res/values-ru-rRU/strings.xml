@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?> <resources>
+    <string name="app_name">Stock Hawk</string>
+    <string name="action_change_units">изменения</string>
+    <string name="display_mode_percentage">процент</string>
+    <string name="display_mode_absolute">абсолютный</string>
+    <string name="dialog_title">заголовок</string>
+    <string name="dialog_hint">подсказка (p.ej. GOOG)</string>
+    <string name="dialog_cancel">отменить</string>
+    <string name="dialog_add"> добавить</string>
+    <string name="error_symbol_not_found">символ не найлден.</string>
+    <string name="error_io_error">io ошибка</string>
+    <string name="error_no_network">нет сети.</string>
+    <string name="error_no_stocks">нет акций.</string>
+    <string name="toast_stock_added_no_connectivity">нет соединения для добавленной акции</string>
+    <string name="toast_no_connectivity">нет соединения</string>
+    <string name="chart_no_data">нет данных</string>
+    <string name="chart_desc">подробности</string>
+    <string name="chart_axis_date_format">%1$d.%2$d</string>
+    <string name="widget_stocks_title">заголовок акции</string>
+    <string name="empty_stocks_list">нет акций</string>
+</resources>
