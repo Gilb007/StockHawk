@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/vladislav_kolomysov/Desktop/StockHawk/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="3b23eb344499224d8e3e4ee87ef5030dd2910b76">
-        <dex dex="/Users/vladislav_kolomysov/Desktop/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_c0c82406da69ca79526307dc76a23d8c6f7396cd/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/vladislav_kolomysov/Desktop/StockHawk/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/vladislav_kolomysov/Desktop/stockhawk/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="/Users/vladislav_kolomysov/Desktop/StockHawk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c7d7b230581cbde19117d758062d22d90ee55187/classes.dex" />
+        <dex dex="/Users/vladislav_kolomysov/Desktop/stockhawk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2ced28d0edd7aeb96270e7a14b3bb0c8e0eda65c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/vladislav_kolomysov/Desktop/stockhawk/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="50e54023f9ea4e4534f7bc19b061f897cfad9d4b">
+        <dex dex="/Users/vladislav_kolomysov/Desktop/stockhawk/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f43582ee22a4403c3e3a365219446c38474f8102/classes.dex" />
     </item>
 
 </items>
